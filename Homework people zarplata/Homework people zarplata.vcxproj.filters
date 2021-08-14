@@ -21,9 +21,21 @@
     <ClCompile Include="Employee.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Hourly.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Monthly.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Emloyee.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hourly.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Monthly.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
